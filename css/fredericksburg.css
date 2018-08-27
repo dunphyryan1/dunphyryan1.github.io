@@ -1,0 +1,71 @@
+.sign-header {
+font-size:5.45vw;
+margin-top:30%;
+margin-left:8.7%;
+}
+
+#top-line {
+margin-top:7.5%;
+}
+
+.sign-text {
+font-size:1.88vw;
+}
+
+#button {
+margin:3% 0% 0% 32%;
+}
+
+.btn {
+margin:3% 0% 0% 0%;
+font-size:1.4vw;
+}
+
+@media (max-width: 700px) {
+#sign {
+background-image:url(../canvas-background.jpg);
+background-repeat: repeat-y;
+background-color:white;
+background-size:100%;
+margin-left:0%;
+}
+.sign-header {
+font-size:34px;
+margin:1%;
+color:black;
+text-align:center;
+background-color:white;
+border:gray; 1px;
+padding:1.5%;
+opacity:0.4;
+}
+
+#top-line {
+margin-top:0%;
+}
+
+.sign-text {
+font-size:24px;
+margin-left:1%;
+margin-right:1%;
+padding:1.35%;
+padding-left:2%;
+font-family:'Crimson Text',serif;
+margin-bottom:0%;
+background-color:white;
+opacity:0.4;
+color:black;
+border:gray; 1px;
+}
+
+#button {
+margin:1% 0% 0% 1%;
+}
+
+.btn {
+margin:1% 0% 0% 0%;
+font-size:24px;
+}
+}
+
+
